@@ -1,0 +1,5288 @@
+[
+    {
+      "type": 0,
+      "data": {},
+      "timestamp": 1611830524851
+    },
+    {
+      "type": 1,
+      "data": {},
+      "timestamp": 1611830524876
+    },
+    {
+      "type": 4,
+      "data": {
+        "href": "http://localhost:8000/src/recorded-page.html?checkbox=on&radio=on",
+        "width": 1366,
+        "height": 669
+      },
+      "timestamp": 1611830524876
+    },
+    {
+      "type": 2,
+      "data": {
+        "node": {
+          "type": 0,
+          "childNodes": [
+            {
+              "type": 1,
+              "name": "html",
+              "publicId": "",
+              "systemId": "",
+              "id": 2
+            },
+            {
+              "type": 2,
+              "tagName": "html",
+              "attributes": {
+                "lang": "en"
+              },
+              "childNodes": [
+                {
+                  "type": 2,
+                  "tagName": "head",
+                  "attributes": {},
+                  "childNodes": [
+                    {
+                      "type": 2,
+                      "tagName": "style",
+                      "attributes": {
+                        "id": "stndz-style"
+                      },
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "div[class*=\"item-container-obpd\"], a[data-redirect*=\"paid.outbrain.com\"], a[onmousedown*=\"paid.outbrain.com\"] { display: none !important; } a div[class*=\"item-container-ad\"] { height: 0px !important; overflow: hidden !important; position: absolute !important; } div[data-item-syndicated=\"true\"] { display: none !important; } .grv_is_sponsored { display: none !important; } .zergnet-widget-related { display: none !important; } ",
+                          "isStyle": true,
+                          "id": 6
+                        }
+                      ],
+                      "id": 5
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 7
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "meta",
+                      "attributes": {
+                        "charset": "UTF-8"
+                      },
+                      "childNodes": [],
+                      "id": 8
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 9
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "meta",
+                      "attributes": {
+                        "name": "viewport",
+                        "content": "width=device-width, initial-scale=1.0"
+                      },
+                      "childNodes": [],
+                      "id": 10
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 11
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "title",
+                      "attributes": {},
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "Document",
+                          "id": 13
+                        }
+                      ],
+                      "id": 12
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n\n    ",
+                      "id": 14
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "style",
+                      "attributes": {},
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "\n        .temp{\n            background-color:brown;\n            margin:3px;\n            width:50px;\n            height: 50px;\n        }\n    ",
+                          "isStyle": true,
+                          "id": 16
+                        }
+                      ],
+                      "id": 15
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n",
+                      "id": 17
+                    }
+                  ],
+                  "id": 4
+                },
+                {
+                  "type": 3,
+                  "textContent": "\n",
+                  "id": 18
+                },
+                {
+                  "type": 2,
+                  "tagName": "body",
+                  "attributes": {},
+                  "childNodes": [
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 20
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "div",
+                      "attributes": {},
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 22
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {},
+                          "childNodes": [
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 24
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h1",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 1",
+                                  "id": 26
+                                }
+                              ],
+                              "id": 25
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 27
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h2",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 2",
+                                  "id": 29
+                                }
+                              ],
+                              "id": 28
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 30
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h3",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 3",
+                                  "id": 32
+                                }
+                              ],
+                              "id": 31
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 33
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h4",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 4",
+                                  "id": 35
+                                }
+                              ],
+                              "id": 34
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 36
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h5",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 5",
+                                  "id": 38
+                                }
+                              ],
+                              "id": 37
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 39
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h6",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Heading 6",
+                                  "id": 41
+                                }
+                              ],
+                              "id": 40
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n          ",
+                              "id": 42
+                            }
+                          ],
+                          "id": 23
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n    ",
+                          "id": 43
+                        }
+                      ],
+                      "id": 21
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 44
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "div",
+                      "attributes": {},
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 46
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {},
+                          "childNodes": [
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 48
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h3",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Definition list",
+                                  "id": 50
+                                }
+                              ],
+                              "id": 49
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 51
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "dl",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 53
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "dt",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Definition List Title",
+                                      "id": 55
+                                    }
+                                  ],
+                                  "id": 54
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 56
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "dd",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "This is a definition list division.",
+                                      "id": 58
+                                    }
+                                  ],
+                                  "id": 57
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 59
+                                }
+                              ],
+                              "id": 52
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 60
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h3",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Ordered List",
+                                  "id": 62
+                                }
+                              ],
+                              "id": 61
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 63
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "ol",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 65
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 1",
+                                      "id": 67
+                                    }
+                                  ],
+                                  "id": 66
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 68
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 2",
+                                      "id": 70
+                                    }
+                                  ],
+                                  "id": 69
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 71
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 3",
+                                      "id": 73
+                                    }
+                                  ],
+                                  "id": 72
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 74
+                                }
+                              ],
+                              "id": 64
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 75
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "h3",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "Unordered List",
+                                  "id": 77
+                                }
+                              ],
+                              "id": 76
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 78
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "ul",
+                              "attributes": {},
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 80
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 1",
+                                      "id": 82
+                                    }
+                                  ],
+                                  "id": 81
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 83
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 2",
+                                      "id": 85
+                                    }
+                                  ],
+                                  "id": 84
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 86
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "li",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "List Item 3",
+                                      "id": 88
+                                    }
+                                  ],
+                                  "id": 87
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 89
+                                }
+                              ],
+                              "id": 79
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n          ",
+                              "id": 90
+                            }
+                          ],
+                          "id": 47
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n    ",
+                          "id": 91
+                        }
+                      ],
+                      "id": 45
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n\n    ",
+                      "id": 92
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "div",
+                      "attributes": {},
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 94
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "form",
+                          "attributes": {},
+                          "childNodes": [
+                            {
+                              "type": 3,
+                              "textContent": "\n            ",
+                              "id": 96
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__input"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 98
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Input fields",
+                                      "id": 100
+                                    }
+                                  ],
+                                  "id": 99
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 101
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 103
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__text"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Text Input",
+                                          "id": 105
+                                        }
+                                      ],
+                                      "id": 104
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 106
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__text",
+                                        "type": "text",
+                                        "placeholder": "Text Input"
+                                      },
+                                      "childNodes": [],
+                                      "id": 107
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 108
+                                    }
+                                  ],
+                                  "id": 102
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 109
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 111
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__password"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Password",
+                                          "id": 113
+                                        }
+                                      ],
+                                      "id": 112
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 114
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__password",
+                                        "type": "password",
+                                        "placeholder": "Type your Password"
+                                      },
+                                      "childNodes": [],
+                                      "id": 115
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 116
+                                    }
+                                  ],
+                                  "id": 110
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 117
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 119
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__webaddress"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Web Address",
+                                          "id": 121
+                                        }
+                                      ],
+                                      "id": 120
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 122
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__webaddress",
+                                        "type": "url",
+                                        "placeholder": "http://yoursite.com"
+                                      },
+                                      "childNodes": [],
+                                      "id": 123
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 124
+                                    }
+                                  ],
+                                  "id": 118
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 125
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 127
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__emailaddress"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Email Address",
+                                          "id": 129
+                                        }
+                                      ],
+                                      "id": 128
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 130
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__emailaddress",
+                                        "type": "email",
+                                        "placeholder": "name@email.com"
+                                      },
+                                      "childNodes": [],
+                                      "id": 131
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 132
+                                    }
+                                  ],
+                                  "id": 126
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 133
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 135
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__phone"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Phone Number",
+                                          "id": 137
+                                        }
+                                      ],
+                                      "id": 136
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 138
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__phone",
+                                        "type": "tel",
+                                        "placeholder": "(999) 999-9999"
+                                      },
+                                      "childNodes": [],
+                                      "id": 139
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 140
+                                    }
+                                  ],
+                                  "id": 134
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 141
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 143
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__search"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Search",
+                                          "id": 145
+                                        }
+                                      ],
+                                      "id": 144
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 146
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__search",
+                                        "type": "search",
+                                        "placeholder": "Enter Search Term"
+                                      },
+                                      "childNodes": [],
+                                      "id": 147
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 148
+                                    }
+                                  ],
+                                  "id": 142
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 149
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 151
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__text2"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Number Input",
+                                          "id": 153
+                                        }
+                                      ],
+                                      "id": 152
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 154
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__text2",
+                                        "type": "number",
+                                        "placeholder": "Enter a Number"
+                                      },
+                                      "childNodes": [],
+                                      "id": 155
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 156
+                                    }
+                                  ],
+                                  "id": 150
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 157
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 159
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__text3",
+                                        "class": "error"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Error",
+                                          "id": 161
+                                        }
+                                      ],
+                                      "id": 160
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 162
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__text3",
+                                        "class": "is-error",
+                                        "type": "text",
+                                        "placeholder": "Text Input"
+                                      },
+                                      "childNodes": [],
+                                      "id": 163
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 164
+                                    }
+                                  ],
+                                  "id": 158
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 165
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 167
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "input__text4",
+                                        "class": "valid"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Valid",
+                                          "id": 169
+                                        }
+                                      ],
+                                      "id": 168
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 170
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "id": "input__text4",
+                                        "class": "is-valid",
+                                        "type": "text",
+                                        "placeholder": "Text Input"
+                                      },
+                                      "childNodes": [],
+                                      "id": 171
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 172
+                                    }
+                                  ],
+                                  "id": 166
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 173
+                                }
+                              ],
+                              "id": 97
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 174
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__select"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 176
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Select menus",
+                                      "id": 178
+                                    }
+                                  ],
+                                  "id": 177
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 179
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 181
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "select"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Select",
+                                          "id": 183
+                                        }
+                                      ],
+                                      "id": 182
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 184
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "select",
+                                      "attributes": {
+                                        "id": "select",
+                                        "value": "Option One"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "\n                  ",
+                                          "id": 186
+                                        },
+                                        {
+                                          "type": 2,
+                                          "tagName": "optgroup",
+                                          "attributes": {
+                                            "label": "Option Group"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 3,
+                                              "textContent": "\n                    ",
+                                              "id": 188
+                                            },
+                                            {
+                                              "type": 2,
+                                              "tagName": "option",
+                                              "attributes": {
+                                                "selected": true
+                                              },
+                                              "childNodes": [
+                                                {
+                                                  "type": 3,
+                                                  "textContent": "Option One",
+                                                  "id": 190
+                                                }
+                                              ],
+                                              "id": 189
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": "\n                    ",
+                                              "id": 191
+                                            },
+                                            {
+                                              "type": 2,
+                                              "tagName": "option",
+                                              "attributes": {
+                                                "selected": false
+                                              },
+                                              "childNodes": [
+                                                {
+                                                  "type": 3,
+                                                  "textContent": "Option Two",
+                                                  "id": 193
+                                                }
+                                              ],
+                                              "id": 192
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": "\n                    ",
+                                              "id": 194
+                                            },
+                                            {
+                                              "type": 2,
+                                              "tagName": "option",
+                                              "attributes": {
+                                                "selected": false
+                                              },
+                                              "childNodes": [
+                                                {
+                                                  "type": 3,
+                                                  "textContent": "Option Three",
+                                                  "id": 196
+                                                }
+                                              ],
+                                              "id": 195
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": "\n                  ",
+                                              "id": 197
+                                            }
+                                          ],
+                                          "id": 187
+                                        },
+                                        {
+                                          "type": 3,
+                                          "textContent": "\n                ",
+                                          "id": 198
+                                        }
+                                      ],
+                                      "id": 185
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 199
+                                    }
+                                  ],
+                                  "id": 180
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 200
+                                }
+                              ],
+                              "id": 175
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 201
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__checkbox"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 203
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Checkboxes",
+                                      "id": 205
+                                    }
+                                  ],
+                                  "id": 204
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 206
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "ul",
+                                  "attributes": {
+                                    "class": "list list--bare"
+                                  },
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 208
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "checkbox1"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "checkbox1",
+                                                "name": "checkbox",
+                                                "type": "checkbox",
+                                                "checked": true
+                                              },
+                                              "childNodes": [],
+                                              "id": 211
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Choice A",
+                                              "id": 212
+                                            }
+                                          ],
+                                          "id": 210
+                                        }
+                                      ],
+                                      "id": 209
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 213
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "checkbox2"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "checkbox2",
+                                                "name": "checkbox",
+                                                "type": "checkbox"
+                                              },
+                                              "childNodes": [],
+                                              "id": 216
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Choice B",
+                                              "id": 217
+                                            }
+                                          ],
+                                          "id": 215
+                                        }
+                                      ],
+                                      "id": 214
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 218
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "checkbox3"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "checkbox3",
+                                                "name": "checkbox",
+                                                "type": "checkbox"
+                                              },
+                                              "childNodes": [],
+                                              "id": 221
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Choice C",
+                                              "id": 222
+                                            }
+                                          ],
+                                          "id": 220
+                                        }
+                                      ],
+                                      "id": 219
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 223
+                                    }
+                                  ],
+                                  "id": 207
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 224
+                                }
+                              ],
+                              "id": 202
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 225
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__radio"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 227
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Radio buttons",
+                                      "id": 229
+                                    }
+                                  ],
+                                  "id": 228
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 230
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "ul",
+                                  "attributes": {
+                                    "class": "list list--bare"
+                                  },
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 232
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "radio1"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "radio1",
+                                                "name": "radio",
+                                                "type": "radio",
+                                                "class": "radio",
+                                                "checked": true
+                                              },
+                                              "childNodes": [],
+                                              "id": 235
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Option 1",
+                                              "id": 236
+                                            }
+                                          ],
+                                          "id": 234
+                                        }
+                                      ],
+                                      "id": 233
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 237
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "radio2"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "radio2",
+                                                "name": "radio",
+                                                "type": "radio",
+                                                "class": "radio"
+                                              },
+                                              "childNodes": [],
+                                              "id": 240
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Option 2",
+                                              "id": 241
+                                            }
+                                          ],
+                                          "id": 239
+                                        }
+                                      ],
+                                      "id": 238
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 242
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "li",
+                                      "attributes": {},
+                                      "childNodes": [
+                                        {
+                                          "type": 2,
+                                          "tagName": "label",
+                                          "attributes": {
+                                            "for": "radio3"
+                                          },
+                                          "childNodes": [
+                                            {
+                                              "type": 2,
+                                              "tagName": "input",
+                                              "attributes": {
+                                                "id": "radio3",
+                                                "name": "radio",
+                                                "type": "radio",
+                                                "class": "radio"
+                                              },
+                                              "childNodes": [],
+                                              "id": 245
+                                            },
+                                            {
+                                              "type": 3,
+                                              "textContent": " Option 3",
+                                              "id": 246
+                                            }
+                                          ],
+                                          "id": 244
+                                        }
+                                      ],
+                                      "id": 243
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 247
+                                    }
+                                  ],
+                                  "id": 231
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 248
+                                }
+                              ],
+                              "id": 226
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 249
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__textareas"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 251
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Textareas",
+                                      "id": 253
+                                    }
+                                  ],
+                                  "id": 252
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 254
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 256
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "textarea"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Textarea",
+                                          "id": 258
+                                        }
+                                      ],
+                                      "id": 257
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 259
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "textarea",
+                                      "attributes": {
+                                        "id": "textarea",
+                                        "rows": "8",
+                                        "cols": "48",
+                                        "placeholder": "Enter your message here"
+                                      },
+                                      "childNodes": [],
+                                      "id": 260
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 261
+                                    }
+                                  ],
+                                  "id": 255
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 262
+                                }
+                              ],
+                              "id": 250
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 263
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__html5"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 265
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "HTML5 inputs",
+                                      "id": 267
+                                    }
+                                  ],
+                                  "id": 266
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 268
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 270
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "ic"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Color input",
+                                          "id": 272
+                                        }
+                                      ],
+                                      "id": 271
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 273
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "color",
+                                        "id": "ic",
+                                        "value": "#000000"
+                                      },
+                                      "childNodes": [],
+                                      "id": 274
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 275
+                                    }
+                                  ],
+                                  "id": 269
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 276
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 278
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "in"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Number input",
+                                          "id": 280
+                                        }
+                                      ],
+                                      "id": 279
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 281
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "number",
+                                        "id": "in",
+                                        "min": "0",
+                                        "max": "10",
+                                        "value": "5"
+                                      },
+                                      "childNodes": [],
+                                      "id": 282
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 283
+                                    }
+                                  ],
+                                  "id": 277
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 284
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 286
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "ir"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Range input",
+                                          "id": 288
+                                        }
+                                      ],
+                                      "id": 287
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 289
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "range",
+                                        "id": "ir",
+                                        "value": "10"
+                                      },
+                                      "childNodes": [],
+                                      "id": 290
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 291
+                                    }
+                                  ],
+                                  "id": 285
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 292
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 294
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "idd"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Date input",
+                                          "id": 296
+                                        }
+                                      ],
+                                      "id": 295
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 297
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "date",
+                                        "id": "idd",
+                                        "value": "1970-01-01"
+                                      },
+                                      "childNodes": [],
+                                      "id": 298
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 299
+                                    }
+                                  ],
+                                  "id": 293
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 300
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 302
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "idm"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Month input",
+                                          "id": 304
+                                        }
+                                      ],
+                                      "id": 303
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 305
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "month",
+                                        "id": "idm",
+                                        "value": "1970-01"
+                                      },
+                                      "childNodes": [],
+                                      "id": 306
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 307
+                                    }
+                                  ],
+                                  "id": 301
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 308
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 310
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "idw"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Week input",
+                                          "id": 312
+                                        }
+                                      ],
+                                      "id": 311
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 313
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "week",
+                                        "id": "idw",
+                                        "value": "1970-W01"
+                                      },
+                                      "childNodes": [],
+                                      "id": 314
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 315
+                                    }
+                                  ],
+                                  "id": 309
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 316
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 318
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "idt"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Datetime input",
+                                          "id": 320
+                                        }
+                                      ],
+                                      "id": 319
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 321
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "datetime",
+                                        "id": "idt",
+                                        "value": "1970-01-01T00:00:00Z"
+                                      },
+                                      "childNodes": [],
+                                      "id": 322
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 323
+                                    }
+                                  ],
+                                  "id": 317
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 324
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 326
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "label",
+                                      "attributes": {
+                                        "for": "idtl"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "Datetime-local input",
+                                          "id": 328
+                                        }
+                                      ],
+                                      "id": 327
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 329
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "datetime-local",
+                                        "id": "idtl",
+                                        "value": "1970-01-01T00:00"
+                                      },
+                                      "childNodes": [],
+                                      "id": 330
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 331
+                                    }
+                                  ],
+                                  "id": 325
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 332
+                                }
+                              ],
+                              "id": 264
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n            ",
+                              "id": 333
+                            },
+                            {
+                              "type": 2,
+                              "tagName": "fieldset",
+                              "attributes": {
+                                "id": "forms__action"
+                              },
+                              "childNodes": [
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 335
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "legend",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "Action buttons",
+                                      "id": 337
+                                    }
+                                  ],
+                                  "id": 336
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 338
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 340
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "submit",
+                                        "value": "<input type=submit>"
+                                      },
+                                      "childNodes": [],
+                                      "id": 341
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 342
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "button",
+                                        "value": "<input type=button>"
+                                      },
+                                      "childNodes": [],
+                                      "id": 343
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 344
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "reset",
+                                        "value": "<input type=reset>"
+                                      },
+                                      "childNodes": [],
+                                      "id": 345
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 346
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "input",
+                                      "attributes": {
+                                        "type": "submit",
+                                        "value": "<input disabled>",
+                                        "disabled": ""
+                                      },
+                                      "childNodes": [],
+                                      "id": 347
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 348
+                                    }
+                                  ],
+                                  "id": 339
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n              ",
+                                  "id": 349
+                                },
+                                {
+                                  "type": 2,
+                                  "tagName": "p",
+                                  "attributes": {},
+                                  "childNodes": [
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 351
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "button",
+                                      "attributes": {
+                                        "type": "submit"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "<button type=submit>",
+                                          "id": 353
+                                        }
+                                      ],
+                                      "id": 352
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 354
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "button",
+                                      "attributes": {
+                                        "type": "button"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "<button type=button>",
+                                          "id": 356
+                                        }
+                                      ],
+                                      "id": 355
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 357
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "button",
+                                      "attributes": {
+                                        "type": "reset"
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "<button type=reset>",
+                                          "id": 359
+                                        }
+                                      ],
+                                      "id": 358
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n                ",
+                                      "id": 360
+                                    },
+                                    {
+                                      "type": 2,
+                                      "tagName": "button",
+                                      "attributes": {
+                                        "type": "button",
+                                        "disabled": ""
+                                      },
+                                      "childNodes": [
+                                        {
+                                          "type": 3,
+                                          "textContent": "<button disabled>",
+                                          "id": 362
+                                        }
+                                      ],
+                                      "id": 361
+                                    },
+                                    {
+                                      "type": 3,
+                                      "textContent": "\n              ",
+                                      "id": 363
+                                    }
+                                  ],
+                                  "id": 350
+                                },
+                                {
+                                  "type": 3,
+                                  "textContent": "\n            ",
+                                  "id": 364
+                                }
+                              ],
+                              "id": 334
+                            },
+                            {
+                              "type": 3,
+                              "textContent": "\n\n          ",
+                              "id": 365
+                            }
+                          ],
+                          "id": 95
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n    ",
+                          "id": 366
+                        }
+                      ],
+                      "id": 93
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n\n    ",
+                      "id": 367
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "div",
+                      "attributes": {
+                        "style": "display:flex; flex-wrap: wrap;"
+                      },
+                      "childNodes": [
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 369
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 370
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 371
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 372
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 373
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 374
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 375
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 376
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 377
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 378
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 379
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 380
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 381
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 382
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 383
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 384
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 385
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 386
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n        ",
+                          "id": 387
+                        },
+                        {
+                          "type": 2,
+                          "tagName": "div",
+                          "attributes": {
+                            "class": "temp"
+                          },
+                          "childNodes": [],
+                          "id": 388
+                        },
+                        {
+                          "type": 3,
+                          "textContent": "\n    ",
+                          "id": 389
+                        }
+                      ],
+                      "id": 368
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 390
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "script",
+                      "attributes": {
+                        "src": "http://localhost:8000/node_modules/rrweb/dist/record/rrweb-record.js"
+                      },
+                      "childNodes": [],
+                      "id": 391
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n    ",
+                      "id": 392
+                    },
+                    {
+                      "type": 2,
+                      "tagName": "script",
+                      "attributes": {
+                        "src": "http://localhost:8000/src/js/record.js"
+                      },
+                      "childNodes": [],
+                      "id": 393
+                    },
+                    {
+                      "type": 3,
+                      "textContent": "\n\n",
+                      "id": 394
+                    }
+                  ],
+                  "id": 19
+                }
+              ],
+              "id": 3
+            }
+          ],
+          "id": 1
+        },
+        "initialOffset": {
+          "left": 0,
+          "top": 0
+        }
+      },
+      "timestamp": 1611830524883
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 129,
+            "y": 530,
+            "id": 47,
+            "timeOffset": 0
+          }
+        ]
+      },
+      "timestamp": 1611830524891
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 47,
+        "x": 129,
+        "y": 530
+      },
+      "timestamp": 1611830525046
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 47,
+        "x": 129,
+        "y": 530
+      },
+      "timestamp": 1611830525061
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 47,
+        "x": 129,
+        "y": 530
+      },
+      "timestamp": 1611830525061
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 47,
+        "x": 129,
+        "y": 530
+      },
+      "timestamp": 1611830525061
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 129,
+            "y": 530,
+            "id": 47,
+            "timeOffset": -424
+          },
+          {
+            "x": 129,
+            "y": 530,
+            "id": 47,
+            "timeOffset": -276
+          },
+          {
+            "x": 130,
+            "y": 530,
+            "id": 47,
+            "timeOffset": -14
+          }
+        ]
+      },
+      "timestamp": 1611830525391
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 134,
+            "y": 532,
+            "id": 47,
+            "timeOffset": -461
+          }
+        ]
+      },
+      "timestamp": 1611830525892
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 133
+      },
+      "timestamp": 1611830525892
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 710
+      },
+      "timestamp": 1611830525992
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 834
+      },
+      "timestamp": 1611830526289
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 1147
+      },
+      "timestamp": 1611830526388
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 135,
+            "y": 528,
+            "id": 264,
+            "timeOffset": 0
+          }
+        ]
+      },
+      "timestamp": 1611830526954
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 140,
+            "y": 478,
+            "id": 282,
+            "timeOffset": -446
+          },
+          {
+            "x": 143,
+            "y": 454,
+            "id": 264,
+            "timeOffset": -395
+          },
+          {
+            "x": 141,
+            "y": 457,
+            "id": 264,
+            "timeOffset": -344
+          }
+        ]
+      },
+      "timestamp": 1611830527454
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 1212
+      },
+      "timestamp": 1611830527889
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 152,
+            "y": 447,
+            "id": 269,
+            "timeOffset": -470
+          },
+          {
+            "x": 179,
+            "y": 386,
+            "id": 264,
+            "timeOffset": -411
+          },
+          {
+            "x": 166,
+            "y": 280,
+            "id": 260,
+            "timeOffset": -361
+          }
+        ]
+      },
+      "timestamp": 1611830527954
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 3,
+        "id": 1,
+        "x": 0,
+        "y": 1419
+      },
+      "timestamp": 1611830527990
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 186,
+            "y": 278,
+            "id": 298,
+            "timeOffset": -23
+          }
+        ]
+      },
+      "timestamp": 1611830528454
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 299,
+            "y": 422,
+            "id": 264,
+            "timeOffset": -472
+          },
+          {
+            "x": 347,
+            "y": 518,
+            "id": 345,
+            "timeOffset": -247
+          },
+          {
+            "x": 314,
+            "y": 535,
+            "id": 345,
+            "timeOffset": -187
+          },
+          {
+            "x": 260,
+            "y": 541,
+            "id": 334,
+            "timeOffset": -121
+          },
+          {
+            "x": 251,
+            "y": 536,
+            "id": 343,
+            "timeOffset": -71
+          },
+          {
+            "x": 248,
+            "y": 534,
+            "id": 343,
+            "timeOffset": -21
+          }
+        ]
+      },
+      "timestamp": 1611830528954
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 245,
+            "y": 533,
+            "id": 343,
+            "timeOffset": -288
+          },
+          {
+            "x": 225,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -237
+          },
+          {
+            "x": 214,
+            "y": 527,
+            "id": 343,
+            "timeOffset": -187
+          },
+          {
+            "x": 213,
+            "y": 526,
+            "id": 343,
+            "timeOffset": -137
+          },
+          {
+            "x": 213,
+            "y": 527,
+            "id": 343,
+            "timeOffset": -74
+          },
+          {
+            "x": 214,
+            "y": 529,
+            "id": 343,
+            "timeOffset": -7
+          }
+        ]
+      },
+      "timestamp": 1611830529454
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830529671
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 5,
+        "id": 343
+      },
+      "timestamp": 1611830529673
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830529708
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830529709
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 215,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -455
+          },
+          {
+            "x": 219,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -389
+          },
+          {
+            "x": 220,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -288
+          },
+          {
+            "x": 220,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -92
+          },
+          {
+            "x": 220,
+            "y": 532,
+            "id": 343,
+            "timeOffset": -20
+          }
+        ]
+      },
+      "timestamp": 1611830529955
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530084
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530089
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530090
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530090
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530236
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530238
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530238
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530412
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530431
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 220,
+        "y": 532
+      },
+      "timestamp": 1611830530431
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 220,
+            "y": 532,
+            "id": 343,
+            "timeOffset": -324
+          }
+        ]
+      },
+      "timestamp": 1611830530455
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830530594
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830530600
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830530600
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 343,
+        "x": 220,
+        "y": 531
+      },
+      "timestamp": 1611830530601
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 343,
+        "x": 222,
+        "y": 530
+      },
+      "timestamp": 1611830530757
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 343,
+        "x": 223,
+        "y": 529
+      },
+      "timestamp": 1611830530774
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 343,
+        "x": 223,
+        "y": 529
+      },
+      "timestamp": 1611830530774
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 220,
+            "y": 532,
+            "id": 343,
+            "timeOffset": -468
+          },
+          {
+            "x": 220,
+            "y": 532,
+            "id": 343,
+            "timeOffset": -411
+          },
+          {
+            "x": 220,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -291
+          },
+          {
+            "x": 221,
+            "y": 531,
+            "id": 343,
+            "timeOffset": -236
+          },
+          {
+            "x": 223,
+            "y": 529,
+            "id": 343,
+            "timeOffset": -181
+          },
+          {
+            "x": 229,
+            "y": 526,
+            "id": 343,
+            "timeOffset": -131
+          },
+          {
+            "x": 248,
+            "y": 524,
+            "id": 343,
+            "timeOffset": -75
+          },
+          {
+            "x": 295,
+            "y": 521,
+            "id": 343,
+            "timeOffset": -14
+          }
+        ]
+      },
+      "timestamp": 1611830530955
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 345,
+        "y": 523
+      },
+      "timestamp": 1611830531340
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 6,
+        "id": 343
+      },
+      "timestamp": 1611830531341
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 5,
+        "id": 345
+      },
+      "timestamp": 1611830531341
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 345,
+        "y": 523
+      },
+      "timestamp": 1611830531355
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 345,
+        "y": 523
+      },
+      "timestamp": 1611830531355
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 327,
+            "y": 521,
+            "id": 345,
+            "timeOffset": -464
+          },
+          {
+            "x": 342,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -413
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -360
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -45
+          }
+        ]
+      },
+      "timestamp": 1611830531455
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531504
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531506
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531506
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531507
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531674
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531699
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531699
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531846
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531862
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830531862
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -465
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -412
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -286
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -227
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -159
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -39
+          }
+        ]
+      },
+      "timestamp": 1611830531955
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532033
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532048
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532048
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532048
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532205
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532207
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532207
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 345,
+        "x": 344,
+        "y": 523
+      },
+      "timestamp": 1611830532361
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 345,
+        "x": 344,
+        "y": 524
+      },
+      "timestamp": 1611830532378
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 345,
+        "x": 344,
+        "y": 524
+      },
+      "timestamp": 1611830532378
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -306
+          },
+          {
+            "x": 343,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -171
+          },
+          {
+            "x": 344,
+            "y": 523,
+            "id": 345,
+            "timeOffset": -119
+          },
+          {
+            "x": 345,
+            "y": 524,
+            "id": 345,
+            "timeOffset": -60
+          }
+        ]
+      },
+      "timestamp": 1611830532456
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 489,
+        "y": 628
+      },
+      "timestamp": 1611830532948
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 6,
+        "id": 345
+      },
+      "timestamp": 1611830532949
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 489,
+        "y": 628
+      },
+      "timestamp": 1611830532952
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 489,
+        "y": 628
+      },
+      "timestamp": 1611830532952
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 398,
+            "y": 553,
+            "id": 334,
+            "timeOffset": -485
+          },
+          {
+            "x": 487,
+            "y": 604,
+            "id": 368,
+            "timeOffset": -425
+          },
+          {
+            "x": 490,
+            "y": 609,
+            "id": 386,
+            "timeOffset": -175
+          },
+          {
+            "x": 492,
+            "y": 623,
+            "id": 386,
+            "timeOffset": -125
+          },
+          {
+            "x": 490,
+            "y": 628,
+            "id": 386,
+            "timeOffset": -74
+          },
+          {
+            "x": 489,
+            "y": 628,
+            "id": 386,
+            "timeOffset": -3
+          }
+        ]
+      },
+      "timestamp": 1611830532957
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 488,
+        "y": 626
+      },
+      "timestamp": 1611830533078
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 488,
+        "y": 626
+      },
+      "timestamp": 1611830533093
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 488,
+        "y": 626
+      },
+      "timestamp": 1611830533094
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 488,
+        "y": 626
+      },
+      "timestamp": 1611830533094
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 490,
+        "y": 623
+      },
+      "timestamp": 1611830533171
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 491,
+        "y": 622
+      },
+      "timestamp": 1611830533222
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 491,
+        "y": 622
+      },
+      "timestamp": 1611830533223
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533313
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533342
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533343
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533343
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 489,
+            "y": 627,
+            "id": 386,
+            "timeOffset": -441
+          },
+          {
+            "x": 488,
+            "y": 626,
+            "id": 386,
+            "timeOffset": -389
+          },
+          {
+            "x": 488,
+            "y": 626,
+            "id": 386,
+            "timeOffset": -337
+          },
+          {
+            "x": 490,
+            "y": 623,
+            "id": 386,
+            "timeOffset": -275
+          },
+          {
+            "x": 492,
+            "y": 622,
+            "id": 386,
+            "timeOffset": -224
+          }
+        ]
+      },
+      "timestamp": 1611830533457
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533460
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533462
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533462
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533593
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533596
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533596
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533708
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533712
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533713
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533713
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533833
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533839
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533839
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533959
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533965
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830533965
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534070
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534100
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534100
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534100
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534197
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534199
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534200
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534318
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534361
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534361
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534451
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534468
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534468
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534469
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534584
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534600
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534600
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534725
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534759
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534759
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534837
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534871
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534871
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534871
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830534994
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535013
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535013
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535134
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535139
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535140
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535266
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535271
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535271
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535271
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535392
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535398
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535398
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535518
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535552
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535552
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535631
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535686
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535687
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535687
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535797
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535803
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 386,
+        "x": 492,
+        "y": 622
+      },
+      "timestamp": 1611830535803
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 483,
+            "y": 622,
+            "id": 386,
+            "timeOffset": 0
+          }
+        ]
+      },
+      "timestamp": 1611830535873
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 366,
+            "y": 634,
+            "id": 382,
+            "timeOffset": -443
+          },
+          {
+            "x": 315,
+            "y": 639,
+            "id": 380,
+            "timeOffset": -393
+          },
+          {
+            "x": 269,
+            "y": 646,
+            "id": 378,
+            "timeOffset": -343
+          },
+          {
+            "x": 236,
+            "y": 651,
+            "id": 378,
+            "timeOffset": -277
+          },
+          {
+            "x": 223,
+            "y": 651,
+            "id": 376,
+            "timeOffset": -227
+          },
+          {
+            "x": 217,
+            "y": 646,
+            "id": 376,
+            "timeOffset": -177
+          },
+          {
+            "x": 204,
+            "y": 641,
+            "id": 376,
+            "timeOffset": -127
+          },
+          {
+            "x": 199,
+            "y": 637,
+            "id": 376,
+            "timeOffset": -77
+          },
+          {
+            "x": 200,
+            "y": 636,
+            "id": 376,
+            "timeOffset": -27
+          }
+        ]
+      },
+      "timestamp": 1611830536373
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 200,
+        "y": 636
+      },
+      "timestamp": 1611830536380
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 203,
+        "y": 636
+      },
+      "timestamp": 1611830536428
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 203,
+        "y": 636
+      },
+      "timestamp": 1611830536428
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536548
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536568
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536568
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536711
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536720
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536720
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536720
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536855
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 203,
+            "y": 636,
+            "id": 376,
+            "timeOffset": -461
+          },
+          {
+            "x": 205,
+            "y": 638,
+            "id": 376,
+            "timeOffset": -404
+          },
+          {
+            "x": 206,
+            "y": 640,
+            "id": 376,
+            "timeOffset": -344
+          },
+          {
+            "x": 207,
+            "y": 640,
+            "id": 376,
+            "timeOffset": -292
+          },
+          {
+            "x": 207,
+            "y": 640,
+            "id": 376,
+            "timeOffset": -97
+          },
+          {
+            "x": 207,
+            "y": 640,
+            "id": 376,
+            "timeOffset": -15
+          }
+        ]
+      },
+      "timestamp": 1611830536874
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536874
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536874
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830536996
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830537015
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 207,
+        "y": 640
+      },
+      "timestamp": 1611830537015
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 208,
+        "y": 640
+      },
+      "timestamp": 1611830537142
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 208,
+        "y": 640
+      },
+      "timestamp": 1611830537145
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 208,
+        "y": 640
+      },
+      "timestamp": 1611830537145
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 376,
+        "x": 208,
+        "y": 640
+      },
+      "timestamp": 1611830537146
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 212,
+        "y": 637
+      },
+      "timestamp": 1611830537270
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 212,
+        "y": 636
+      },
+      "timestamp": 1611830537289
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 212,
+        "y": 636
+      },
+      "timestamp": 1611830537289
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 208,
+            "y": 640,
+            "id": 376,
+            "timeOffset": -276
+          },
+          {
+            "x": 209,
+            "y": 639,
+            "id": 376,
+            "timeOffset": -212
+          },
+          {
+            "x": 212,
+            "y": 637,
+            "id": 376,
+            "timeOffset": -127
+          },
+          {
+            "x": 212,
+            "y": 636,
+            "id": 376,
+            "timeOffset": -72
+          },
+          {
+            "x": 213,
+            "y": 636,
+            "id": 376,
+            "timeOffset": -15
+          }
+        ]
+      },
+      "timestamp": 1611830537375
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537424
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537430
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537430
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 4,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537430
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537550
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537556
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 213,
+        "y": 635
+      },
+      "timestamp": 1611830537556
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 1,
+        "id": 376,
+        "x": 221,
+        "y": 630
+      },
+      "timestamp": 1611830537711
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 0,
+        "id": 376,
+        "x": 221,
+        "y": 630
+      },
+      "timestamp": 1611830537713
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 2,
+        "type": 2,
+        "id": 376,
+        "x": 221,
+        "y": 630
+      },
+      "timestamp": 1611830537713
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 213,
+            "y": 635,
+            "id": 376,
+            "timeOffset": -376
+          },
+          {
+            "x": 214,
+            "y": 635,
+            "id": 376,
+            "timeOffset": -236
+          },
+          {
+            "x": 221,
+            "y": 630,
+            "id": 376,
+            "timeOffset": -186
+          },
+          {
+            "x": 257,
+            "y": 612,
+            "id": 378,
+            "timeOffset": -131
+          },
+          {
+            "x": 358,
+            "y": 562,
+            "id": 358,
+            "timeOffset": -65
+          },
+          {
+            "x": 409,
+            "y": 538,
+            "id": 345,
+            "timeOffset": -7
+          }
+        ]
+      },
+      "timestamp": 1611830537876
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 445,
+            "y": 498,
+            "id": 334,
+            "timeOffset": 0
+          }
+        ]
+      },
+      "timestamp": 1611830538587
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 444,
+            "y": 481,
+            "id": 334,
+            "timeOffset": 0
+          }
+        ]
+      },
+      "timestamp": 1611830539985
+    },
+    {
+      "type": 3,
+      "data": {
+        "source": 1,
+        "positions": [
+          {
+            "x": 526,
+            "y": 339,
+            "id": 264,
+            "timeOffset": -447
+          },
+          {
+            "x": 591,
+            "y": 257,
+            "id": 264,
+            "timeOffset": -394
+          },
+          {
+            "x": 666,
+            "y": 157,
+            "id": 269,
+            "timeOffset": -339
+          }
+        ]
+      },
+      "timestamp": 1611830540485
+    }
+  ]
